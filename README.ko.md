@@ -1,6 +1,6 @@
 # Eagle 플러그인 지원 — animtools
 
-**언어:** [English](README.md) | [日本語](README.ja.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | 한국어
+**언어:** [English](README.md) | [日本語](README.ja.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | 한국어 | [Español](README.es.md) | [Deutsch](README.de.md) | [Русский](README.ru.md)
 
 ---
 
