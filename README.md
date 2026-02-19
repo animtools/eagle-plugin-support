@@ -22,21 +22,21 @@ This repository is the official support channel for Eagle plugins by **animtools
 
 ### 🐛 Bug report / バグ報告
 
-1. Click **[Issues](https://github.com/animtools/eagle-pluguin-support/issues) → New Issue → Bug Report**.
+1. Click **[Issues](https://github.com/animtools/eagle-plugin-support/issues) → New Issue → Bug Report**.
 2. Fill in the template (plugin name, Eagle version, OS, steps to reproduce, expected vs actual behavior).
 
 **Issues タブ → New Issue → Bug Report** を選び、テンプレートに沿って記入してください（プラグイン名・Eagle バージョン・OS・再現手順・期待動作・実際の動作）。
 
 ### 💡 Feature request / 機能リクエスト
 
-1. Click **[Issues](https://github.com/animtools/eagle-pluguin-support/issues) → New Issue → Feature Request**.
+1. Click **[Issues](https://github.com/animtools/eagle-plugin-support/issues) → New Issue → Feature Request**.
 2. Describe the feature and your use case.
 
 **Issues タブ → New Issue → Feature Request** を選び、希望する機能とユースケースを記入してください。
 
 ### ❓ General questions / 一般的な質問
 
-Open a **[Blank Issue](https://github.com/animtools/eagle-pluguin-support/issues)** and describe your question.
+Open a **[Blank Issue](https://github.com/animtools/eagle-plugin-support/issues)** and describe your question.
 
 **Blank Issue** を開き、質問内容を記入してください。
 
