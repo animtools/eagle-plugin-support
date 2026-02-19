@@ -4,6 +4,8 @@ about: Report a bug or unexpected behavior / バグや予期しない動作の�
 title: "[Bug] "
 labels: bug
 assignees: ''
+💬 **You can write in your language** — English, 日本語, 中文, 한국어, Español, Deutsch, Русский are all welcome.
+
 ---
 
 ## Plugin / プラグイン

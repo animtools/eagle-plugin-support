@@ -4,6 +4,8 @@ about: Suggest an idea or improvement / アイデアや改善の提案
 title: "[Feature] "
 labels: enhancement
 assignees: ''
+💬 **You can write in your language** — English, 日本語, 中文, 한국어, Español, Deutsch, Русский are all welcome.
+
 ---
 
 ## Plugin / プラグイン
