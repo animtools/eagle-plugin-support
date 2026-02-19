@@ -1,6 +1,6 @@
 # Eagle 插件支援 — animtools
 
-**語言:** [English](README.md) | [日本語](README.ja.md) | [简体中文](README.zh-CN.md) | 繁體中文
+**語言:** [English](README.md) | [日本語](README.ja.md) | [简体中文](README.zh-CN.md) | 繁體中文 | [한국어](README.ko.md)
 
 ---
 
