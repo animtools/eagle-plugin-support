@@ -36,6 +36,11 @@
 
 开启 **[Blank Issue](https://github.com/animtools/eagle-plugin-support/issues)** 并描述您的问题。
 
+### 💬 社区（Discord）
+
+加入 Discord 服务器，获取实验性功能的早期信息、扩展版更新及一般交流:
+→ [discord.gg/c5mWhQ7nPW](https://discord.gg/c5mWhQ7nPW)
+
 ---
 
 ## 系统要求

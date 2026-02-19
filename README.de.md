@@ -36,6 +36,11 @@ Dieses Repository ist der offizielle Support-Kanal für Eagle-Plugins von **anim
 
 Öffne ein **[Leeres Issue](https://github.com/animtools/eagle-plugin-support/issues)** und beschreibe deine Frage.
 
+### 💬 Community (Discord)
+
+Tritt dem Discord-Server bei für frühen Zugang zu experimentellen Funktionen, Updates zur erweiterten Edition und allgemeinen Austausch:
+→ [discord.gg/c5mWhQ7nPW](https://discord.gg/c5mWhQ7nPW)
+
 ---
 
 ## Voraussetzungen

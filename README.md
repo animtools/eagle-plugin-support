@@ -36,6 +36,11 @@ This repository is the official support channel for Eagle plugins by **animtools
 
 Open a **[Blank Issue](https://github.com/animtools/eagle-plugin-support/issues)** and describe your question.
 
+### 💬 Community (Discord)
+
+Join the Discord server for early access to experimental features, extended edition info, and general chat:
+→ [discord.gg/c5mWhQ7nPW](https://discord.gg/c5mWhQ7nPW)
+
 ---
 
 ## Requirements

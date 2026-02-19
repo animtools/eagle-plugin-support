@@ -36,6 +36,11 @@
 
 **[Blank Issue](https://github.com/animtools/eagle-plugin-support/issues)**를 열고 질문 내용을 작성해 주세요.
 
+### 💬 커뮤니티（Discord）
+
+실험적인 기능의 사전 정보・확장판 업데이트・일반 대화는 Discord 서버에서:
+→ [discord.gg/c5mWhQ7nPW](https://discord.gg/c5mWhQ7nPW)
+
 ---
 
 ## 동작 요건
