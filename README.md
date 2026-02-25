@@ -10,13 +10,13 @@ This repository is the official support channel for Eagle plugins by **animtools
 
 ## Plugins
 
-### Video Tile-kun Series
+### VideoTileKun Series
 
 | Plugin | Description |
 |---|---|
-| **Video Tile-kun** | Inspector plugin — displays video thumbnails as a tile grid. |
+| **VideoTileKun Inspector** | Inspector plugin — displays video thumbnails as a tile grid. |
 | **VideoTileKun Player** | Dedicated video player with timeline markers. |
-| **Video Tile-kun Service** | Background service — auto-generates tiles on video import. |
+| **VideoTileKun Service** | Background service — auto-generates tiles on video import. |
 
 ---
 
@@ -60,5 +60,5 @@ Join the Discord server for early access to experimental features, extended edit
 ## Notes
 
 - Please **search existing issues** before opening a new one.
-- Please include the **plugin name** in your issue title (e.g. `[Video Tile-kun] ...`).
+- Please include the **plugin name** in your issue title (e.g. `[VideoTileKun Inspector] ...`).
 - Issues are monitored periodically. Response may take a few days.

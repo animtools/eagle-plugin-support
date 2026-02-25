@@ -10,13 +10,13 @@ Dieses Repository ist der offizielle Support-Kanal für Eagle-Plugins von **anim
 
 ## Plugins
 
-### Video Tile-kun Serie
+### VideoTileKun Serie
 
 | Plugin | Beschreibung |
 |---|---|
-| **Video Tile-kun** | Inspektor-Plugin — zeigt Video-Miniaturen als Kachelraster an. |
+| **VideoTileKun Inspector** | Inspektor-Plugin — zeigt Video-Miniaturen als Kachelraster an. |
 | **VideoTileKun Player** | Dedizierter Videoplayer mit Timeline-Markern. |
-| **Video Tile-kun Service** | Hintergrunddienst — erstellt automatisch Kacheln beim Video-Import. |
+| **VideoTileKun Service** | Hintergrunddienst — erstellt automatisch Kacheln beim Video-Import. |
 
 ---
 
@@ -60,5 +60,5 @@ Tritt dem Discord-Server bei für frühen Zugang zu experimentellen Funktionen, 
 ## Hinweise
 
 - Bitte **suche in bestehenden Issues**, bevor du ein neues eröffnest.
-- Bitte gib den **Plugin-Namen** im Issue-Titel an (z.B. `[Video Tile-kun] ...`).
+- Bitte gib den **Plugin-Namen** im Issue-Titel an (z.B. `[VideoTileKun Inspector] ...`).
 - Issues werden regelmäßig geprüft. Die Antwort kann einige Tage dauern.

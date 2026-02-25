@@ -10,13 +10,13 @@
 
 ## 插件列表
 
-### Video Tile-kun 系列
+### VideoTileKun 系列
 
 | 插件 | 说明 |
 |---|---|
-| **Video Tile-kun** | 检查器插件 — 在 Eagle 检查器中以网格形式显示视频缩略图。 |
+| **VideoTileKun Inspector** | 检查器插件 — 在 Eagle 检查器中以网格形式显示视频缩略图。 |
 | **VideoTileKun Player** | 带时间轴标记的专用视频播放器。 |
-| **Video Tile-kun Service** | 后台服务 — 导入视频时自动生成缩略图。 |
+| **VideoTileKun Service** | 后台服务 — 导入视频时自动生成缩略图。 |
 
 ---
 
@@ -60,5 +60,5 @@
 ## 注意事项
 
 - 提交新 Issue 前，请先**搜索已有 Issue**。
-- 请在 Issue 标题中注明**插件名称**（例: `[Video Tile-kun] ...`）。
+- 请在 Issue 标题中注明**插件名称**（例: `[VideoTileKun Inspector] ...`）。
 - Issue 会定期查看，回复可能需要数天时间。

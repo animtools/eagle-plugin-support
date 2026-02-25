@@ -11,9 +11,9 @@ assignees: ''
 ## Plugin / プラグイン
 
 <!-- Select the plugin where the bug occurs / 対象プラグインを選んでください -->
-- [ ] Video Tile-kun (Inspector)
+- [ ] VideoTileKun Inspector
 - [ ] VideoTileKun Player
-- [ ] Video Tile-kun Service
+- [ ] VideoTileKun Service
 
 ---
 

@@ -10,13 +10,13 @@
 
 ## 플러그인 목록
 
-### Video Tile-kun 시리즈
+### VideoTileKun 시리즈
 
 | 플러그인 | 설명 |
 |---|---|
-| **Video Tile-kun** | 인스펙터 플러그인 — 동영상 썸네일을 타일 그리드로 표시합니다. |
+| **VideoTileKun Inspector** | 인스펙터 플러그인 — 동영상 썸네일을 타일 그리드로 표시합니다. |
 | **VideoTileKun Player** | 타임라인 마커가 있는 전용 동영상 플레이어. |
-| **Video Tile-kun Service** | 백그라운드 서비스 — 동영상 가져오기 시 썸네일을 자동 생성합니다. |
+| **VideoTileKun Service** | 백그라운드 서비스 — 동영상 가져오기 시 썸네일을 자동 생성합니다. |
 
 ---
 
@@ -60,5 +60,5 @@
 ## 참고사항
 
 - 새 Issue를 열기 전에 **기존 Issue를 검색**해 주세요.
-- Issue 제목에 **플러그인 이름**을 포함해 주세요（예: `[Video Tile-kun] ...`）.
+- Issue 제목에 **플러그인 이름**을 포함해 주세요（예: `[VideoTileKun Inspector] ...`）.
 - Issue는 주기적으로 확인합니다. 응답에 며칠이 걸릴 수 있습니다.

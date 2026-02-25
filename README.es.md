@@ -10,13 +10,13 @@ Este repositorio es el canal de soporte oficial para los plugins de Eagle de **a
 
 ## Plugins
 
-### Serie Video Tile-kun
+### Serie VideoTileKun
 
 | Plugin | Descripción |
 |---|---|
-| **Video Tile-kun** | Plugin de inspector — muestra miniaturas de vídeo en una cuadrícula de celdas. |
+| **VideoTileKun Inspector** | Plugin de inspector — muestra miniaturas de vídeo en una cuadrícula de celdas. |
 | **VideoTileKun Player** | Reproductor de vídeo dedicado con marcadores de línea de tiempo. |
-| **Video Tile-kun Service** | Servicio en segundo plano — genera celdas automáticamente al importar vídeos. |
+| **VideoTileKun Service** | Servicio en segundo plano — genera celdas automáticamente al importar vídeos. |
 
 ---
 
@@ -60,5 +60,5 @@ Abre un **[Issue en blanco](https://github.com/animtools/eagle-plugin-support/is
 ## Notas
 
 - Por favor, **busca en los issues existentes** antes de abrir uno nuevo.
-- Por favor, incluye el **nombre del plugin** en el título del issue (p.ej. `[Video Tile-kun] ...`).
+- Por favor, incluye el **nombre del plugin** en el título del issue (p.ej. `[VideoTileKun Inspector] ...`).
 - Los issues se revisan periódicamente. La respuesta puede tardar algunos días.
