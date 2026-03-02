@@ -18,6 +18,8 @@ Este repositorio es el canal de soporte oficial para los plugins de Eagle de **a
 | **VideoTileKun Player** | Reproductor de vídeo dedicado con marcadores de línea de tiempo. |
 | **VideoTileKun Service** | Servicio en segundo plano — genera celdas automáticamente al importar vídeos. |
 
+**Descarga y documentación:** [Releases](https://github.com/animtools/eagle-plugin-support/releases) | [README / Inicio rápido / Guía de usuario](docs/VideoTileKun-plugins/README.md)
+
 ---
 
 ## Cómo obtener soporte

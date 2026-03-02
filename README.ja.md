@@ -18,6 +18,8 @@
 | **VideoTileKun Player** | タイムラインマーカー付き専用ビデオプレーヤー。 |
 | **VideoTileKun Service** | バックグラウンドサービス — 動画インポート時にタイルを自動生成。 |
 
+**ダウンロード・ドキュメント:** [Releases](https://github.com/animtools/eagle-plugin-support/releases) | [README / クイックスタート / ユーザーガイド](docs/VideoTileKun-plugins/README.md)
+
 ---
 
 ## サポートの受け方

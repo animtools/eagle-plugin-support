@@ -18,6 +18,8 @@
 | **VideoTileKun Player** | 帶時間軸標記的專用影片播放器。 |
 | **VideoTileKun Service** | 背景服務 — 匯入影片時自動產生縮圖。 |
 
+**下載與文件：** [Releases](https://github.com/animtools/eagle-plugin-support/releases) | [README / 快速入門 / 使用者指南](docs/VideoTileKun-plugins/README.md)
+
 ---
 
 ## 如何取得支援

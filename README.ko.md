@@ -18,6 +18,8 @@
 | **VideoTileKun Player** | 타임라인 마커가 있는 전용 동영상 플레이어. |
 | **VideoTileKun Service** | 백그라운드 서비스 — 동영상 가져오기 시 썸네일을 자동 생성합니다. |
 
+**다운로드 및 문서:** [Releases](https://github.com/animtools/eagle-plugin-support/releases) | [README / 퀵스타트 / 사용자 가이드](docs/VideoTileKun-plugins/README.md)
+
 ---
 
 ## 지원받는 방법

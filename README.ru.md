@@ -18,6 +18,8 @@
 | **VideoTileKun Player** | Специализированный видеоплеер с маркерами шкалы времени. |
 | **VideoTileKun Service** | Фоновая служба — автоматически создаёт плитки при импорте видео. |
 
+**Скачать и документация:** [Releases](https://github.com/animtools/eagle-plugin-support/releases) | [README / Быстрый старт / Руководство](docs/VideoTileKun-plugins/README.md)
+
 ---
 
 ## Как получить поддержку

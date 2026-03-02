@@ -18,6 +18,8 @@ This repository is the official support channel for Eagle plugins by **animtools
 | **VideoTileKun Player** | Dedicated video player with timeline markers. |
 | **VideoTileKun Service** | Background service — auto-generates tiles on video import. |
 
+**Download & docs:** [Releases](https://github.com/animtools/eagle-plugin-support/releases) | [README / Quick Start / User Guide](docs/VideoTileKun-plugins/README.md)
+
 ---
 
 ## How to get support

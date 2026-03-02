@@ -18,6 +18,8 @@ Dieses Repository ist der offizielle Support-Kanal für Eagle-Plugins von **anim
 | **VideoTileKun Player** | Dedizierter Videoplayer mit Timeline-Markern. |
 | **VideoTileKun Service** | Hintergrunddienst — erstellt automatisch Kacheln beim Video-Import. |
 
+**Download und Dokumentation:** [Releases](https://github.com/animtools/eagle-plugin-support/releases) | [README / Schnellstart / Benutzerhandbuch](docs/VideoTileKun-plugins/README.md)
+
 ---
 
 ## So erhalten Sie Support
